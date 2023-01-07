@@ -16,11 +16,12 @@ export default function Benefits(props: any) {
           <div>
             <Image
               src={data.image}
+              unoptimized
               width="521"
               height="482"
               alt="Benefits"
-              layout="intrinsic"
-              placeholder="blur"
+
+              // placeholder="blur"
             />
           </div>
         </div>

@@ -63,6 +63,7 @@ function Avatar(props) {
       <div className="flex-shrink-0 overflow-hidden rounded-full w-14 h-14">
         <Image
           src={props.image}
+          unoptimized
           width="40"
           height="40"
           alt="Avatar"
