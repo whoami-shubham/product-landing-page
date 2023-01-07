@@ -3,9 +3,10 @@ const nextConfig = {
   reactStrictMode: true,
   images: {
     domains: ["whoami-shubham.github.io"],
-    path:'/product-landing-page',
+    path:'',
     loader: 'imgix',
   },
+  basePath:'/product-landing-page'
 }
 
 module.exports = nextConfig
