@@ -12,7 +12,7 @@ import {
 const benefitOne = {
   title: "Highlight your benefits",
   desc: "You can use this space to highlight your first benefit or a feature of your product. It can also contain an image or Illustration like in the example along with some bullet points.",
-  image: "/img/benefit-one.png",
+  image: "/product-landing-page/img/benefit-one.png",
   bullets: [
     {
       title: "Understand your customers",
@@ -35,7 +35,7 @@ const benefitOne = {
 const benefitTwo = {
   title: "Offer more benefits here",
   desc: "You can use this same layout with a flip image to highlight your rest of the benefits of your product. It can also contain an image or Illustration as above section along with some bullet points.",
-  image: "/img/benefit-two.png",
+  image: "/product-landing-page/img/benefit-two.png",
   bullets: [
     {
       title: "Mobile Responsive Template",
