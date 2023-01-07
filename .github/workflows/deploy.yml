@@ -1,8 +1,8 @@
 on:
   push:
-    branches: [nextJs]
+    branches: [main]
   pull_request:
-    branches: [nextJs]
+    branches: [main]
 
 jobs:
   build:
