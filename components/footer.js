@@ -44,7 +44,7 @@ export default function Footer() {
                 className="relative block w-44"
               >
                 <Image
-                  src="/img/vercel.svg"
+                  src="/product-landing-page/img/vercel.svg"
                   layout="responsive"
                   alt="Powered by Vercel"
                   width="212"
