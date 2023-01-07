@@ -48,7 +48,7 @@ export default function Hero() {
         <div className="flex items-center justify-center w-full lg:w-1/2">
           <div className="">
             <Image
-              src="/img/hero.png"
+              src="/product-landing-page/img/hero.png"
               unoptimized
               width="616"
               height="617"
